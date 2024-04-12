@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+body{
+    font-family:  "Fjalla One";
+  background-image: url(/IMG/fundo/acb28f2d75f26393b9ff318541d4a7b8.jpg);
+    color: rgb(255, 247, 226);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+img {
+     height: 220px;
+     border: 7px solid rgb(85, 12, 12);
+}
+a{
+    color: #ffee00;
+    
+}
